@@ -1,4 +1,4 @@
 # DataScienceProjects
 Welcome to my Github Profile; 
-You can find listed two of my project. 
-DMS Project which focused on data exploration, analysis and modelling of healthcare data.
+You can find listed here my personal and professional projects.
+The Length Of Stay (LOS) Project focused on data exploration, analysis and statistical inference of healthcare data.
